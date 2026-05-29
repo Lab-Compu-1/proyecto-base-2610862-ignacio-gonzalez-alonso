@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Libreria") (type "KiCad") (uri "${KIPRJMOD}/2610862 Ignacio Gonzalez Alonso-Microduino-backups/Libreria.pretty") (options "") (descr ""))
+)
